@@ -1,1 +1,1 @@
-# EDA-of-Streaming-platforms
+# EDA-of-Streaming-platforms (just for fun)
